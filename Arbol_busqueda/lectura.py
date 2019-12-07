@@ -4,6 +4,8 @@ import re
 from collections import namedtuple
 from Bus import Bus
 import pdb
+
+
 #ESTE FICHERO ME GARANTIZA LA LECTURA CORRECTA DE LA ENTRADA
 Children = namedtuple('Children', 'stop number school')
 
@@ -58,11 +60,13 @@ def LeerPosiciones(linea,indice,n):
         if coincidir == None:
             print("Error en la expresion ",i," en la linea ",linea)
             sys.exit(-1)
-        try:
-           pos = int(i)
-        except ValueError:
-            pos = -1
-        enteros.append(pos)
+        if chunks.index(i) != 0:
+            try:
+                pos = int(i)
+            except ValueError:
+                pos = -1
+            
+            enteros.append(pos)
 
     return enteros
 
@@ -81,7 +85,7 @@ def GetColegios(colegios,n):
   
     return enteros
 
-#Aqui de
+#Aqui obtengo el objeto bus
 def GetBus(autobus,n):
      pattern = re.compile("^"r"\s*B"r"\s*:"r"\s*P[0-9]+"r"\s*[0-9]+"r"\s*$")
      coincidir = pattern.match(autobus)
@@ -94,6 +98,7 @@ def GetBus(autobus,n):
      stopid = re.search('P(.*)', stop)
      parada = int(stopid.group(1))
      capacidad = int(autobus.split(' ')[2])
+    
      return Bus(parada,capacidad)
     
 #Obtengo la posicion original de los alumnos y la devuelvo en una tupla con nombre

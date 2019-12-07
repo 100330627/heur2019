@@ -1,4 +1,5 @@
 from state import State
+import copy
 #AQUI ORDENAMOS LOS NODOS EN FUNCION A SU FUNCIONDE COSTE, 
 #COMO ARGUMENTOS SE PASAN LAS LISTAS DE NODOS RECIEN GENERADOS
 # Y LOS GENERADOS DE ITERACIONES ANTERIORES
@@ -53,4 +54,15 @@ def reexpansion(expandidos,s):
     return False
 
 
-        
+def Buscar_padre(s,lista_expandidos):
+    
+    id = s.father
+    while id != -1:
+        for i in lista_expandidos:
+            if i.id == id:
+                print(i.bus.stop,end=' -->')
+                id = i.father
+                break
+
+    sorted(lista_expandidos, key=lambda x: x.id, reverse=False)
+    print(lista_expandidos.pop(0).bus.stop)

@@ -11,6 +11,8 @@ from array import array
 from merge import merge
 from merge import isFinal
 from merge import reexpansion
+from merge import Buscar_padre
+
 import sys
 import pdb
 
@@ -64,12 +66,15 @@ for i in kids:
             children_list.append(Children(j[0],j[2],False))
 
 #METO UN ESTADO
-initial = State(bus,children_list,0)
+father = 0
+contador_id = -1
+initial = State(bus,children_list,0,father,contador_id)
 partida = initial.bus.stop
 nodos_generados.append(initial)
 #Saco el primero de la lista de generados
 s = nodos_generados.pop(0)
 count = 0
+
 
 while isFinal(s,partida) == False:
     lista_expandidos.append(s)
@@ -87,7 +92,9 @@ while isFinal(s,partida) == False:
     #LA MANERA DE ORDENAR LOS HIJOS QUE NO QUIEREN QUE CONOZCAS
 
     generados_ordenada = sorted(lista_generados, key=lambda x: x.coste_acum, reverse=False)
-
+    for i in generados_ordenada:
+        contador_id += 1
+        i.id = contador_id
     nodos_generados = merge(generados_ordenada,nodos_generados)
     
     count += 1 
@@ -101,3 +108,4 @@ while isFinal(s,partida) == False:
             print("NO SOLUCION")
             sys.exit(-1)
     
+Buscar_padre(s,lista_expandidos)
