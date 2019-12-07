@@ -1,1 +1,8 @@
 Tonto el que lo lea jaja
+<<<<<<< HEAD
+=======
+
+Noooo eres muy listo
+
+Si hago merge de esta pinga un minipunto en mi pequeña pollita
+>>>>>>> dev
