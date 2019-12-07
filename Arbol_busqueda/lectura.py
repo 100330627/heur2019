@@ -3,6 +3,7 @@ from array import array
 import re
 from collections import namedtuple
 from Bus import Bus
+import pdb
 #ESTE FICHERO ME GARANTIZA LA LECTURA CORRECTA DE LA ENTRADA
 Children = namedtuple('Children', 'stop number school')
 
@@ -33,46 +34,36 @@ def leer_fichero():
 
 #Obtengo el tamanyo del grafo (numero de espacios + 1 de la primera linea)
 def getSize(a):
-    count = 0
-    #Le quito los espacios a la izquierda, me lo tragare tabule al principio o no
-    linea = a.lstrip()
-    j = ' '
-    for i in linea:
-        #Compruebo el formato le paso la columna actual, la anterior y el indice de la columna actual
-        FormatHeader(i,j,a.index(i),1)
-        if i == ' ':
-            count += 1
-        j = i
-    return count + 1
+
+    FormatHeader(a)
+    #Divido por el numero de espacios
+    chunks = a.split()
+    
+    return len(chunks)
 
 #Leo las matriz del grafo linea a linea
 
 def LeerPosiciones(linea,indice,n):
     enteros = array('l') 
-    chunks = linea.split(' ')
-    #Compruebo que el numero de elementos sea el correcto
+    chunks = linea.split()
+    #Compruebo que los elementos tengan el formato correcto y los meto al array
 
-    if len(chunks) != n + 1:
-        print("Formato del grafo incorrecto en la linea ",indice)
-        sys.exit(-1)
-    j = ' '
-    for i in chunks[0]:
-        k = chunks[0].index(i)
-        FormatHeader(i,j,k,indice)
-        j = i
-    for i in range(1,n+1):
-        if chunks[i] == '--' or chunks[i] == '--\n':
-           enteros.append(-1)
+    for i in chunks:
+        if chunks.index(i) != 0:
+            pattern = re.compile("^([0-9]+|--)$")
         else:
-            try:
-                if int(chunks[i]) > 0:
-                    enteros.append(int(chunks[i],10))
-                else: 
-                    print("Error Coste negativo en la linea ",indice)
-                    sys.exit(-1)
-            except ValueError:
-                print(chunks[i] ," No es un formato valido linea ",indice)
-                sys.exit(-1)
+            pattern = re.compile("^P([0-9])+")
+        coincidir = pattern.match(i)
+        #En caso de que el formato no sea el adecuado
+        if coincidir == None:
+            print("Error en la expresion ",i," en la linea ",linea)
+            sys.exit(-1)
+        try:
+           pos = int(i)
+        except ValueError:
+            pos = -1
+        enteros.append(pos)
+
     return enteros
 
 #Obtengo la parada correspondiente a los colegios 
@@ -117,13 +108,13 @@ def GetChildren(kids,n):
 #Vamos comprobando que el formato es correcto, lo separo en cabecera, grafo(implicito en LeerValores), colegios, paradas y buses(implicito en GetBus)
 
 #En la cabecera
-def FormatHeader(i,j,k,l):
-    if j == ' ' and i != 'P':
-        print("Formato incorrecto en linea",l," cerca de la columna",k+1)
+def FormatHeader(a):
+    pattern = re.compile("^("r"\s*P([0-9]+)"r"\s*)+$")
+    coincidir = pattern.match(a)
+    if coincidir == None:
+        print("La expresion ",a," no es correcta en la cabecera")
         sys.exit(-1)
-    if (j != 'P' and j.isdigit() == False) and i.isdigit() == True:
-        print("Formato incorrecto en linea",l," cerca de la columna",k+1)
-        sys.exit(-1)
+    
 
 #En los colegios con una expresion regular
 def FormatSchool(cole,n):

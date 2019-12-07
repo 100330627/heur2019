@@ -33,7 +33,6 @@ lineas = leer_fichero()
 
 #1 Tamanyo del grafo n * n
 n = getSize(lineas[0])
-
 #2 Vamos a leer el grafo
 
 #Leo todos los valores
