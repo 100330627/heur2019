@@ -53,7 +53,7 @@ def reexpansion(expandidos,s):
     
     return False
 
-
+#ESTA FUNCION ENCUENTRA AL PADRE
 def Buscar_padre(s,lista_expandidos):
     
     id = s.father
