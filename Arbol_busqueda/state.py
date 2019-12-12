@@ -63,7 +63,7 @@ class State:
                        
                         flag = False
                         lista_ej.remove(k)
-                    if k.isOn == True and flag == False:
+                    if k.isOn == True and flag == True:
                         subidos += 1
                 clon.children.clear()
                 clon.children = lista_ej

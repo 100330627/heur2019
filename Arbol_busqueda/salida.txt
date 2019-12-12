@@ -1,1611 +1,458 @@
 array('l', [2, 9, 8])
 Soy  1  Hijo de  -1
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Voy a  C2  estoy en  9  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
 Soy  2  Hijo de  -1
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
 Soy  3  Hijo de  -1
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  4  Hijo de  -1
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  5  Hijo de  -1
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  6  Hijo de  -1
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  7  Hijo de  -1
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  8  Hijo de  -1
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  9  Hijo de  -1
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  10  Hijo de  -1
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  11  Hijo de  -1
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  12  Hijo de  -1
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  13  Hijo de  -1
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  14  Hijo de  -1
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  15  Hijo de  -1
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  16  Hijo de  0
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  17  Hijo de  0
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  18  Hijo de  1
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  19  Hijo de  1
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  20  Hijo de  2
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  21  Hijo de  2
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  22  Hijo de  3
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  23  Hijo de  3
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  24  Hijo de  4
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  25  Hijo de  4
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  26  Hijo de  5
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  27  Hijo de  5
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  28  Hijo de  6
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-################################################################################
-Soy  29  Hijo de  6
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-################################################################################
-Soy  30  Hijo de  7
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-################################################################################
-Soy  31  Hijo de  7
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-################################################################################
-Soy  32  Hijo de  8
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  33  Hijo de  8
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  34  Hijo de  9
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  35  Hijo de  9
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  36  Hijo de  10
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  37  Hijo de  10
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  38  Hijo de  11
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  39  Hijo de  11
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  40  Hijo de  12
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-################################################################################
-Soy  41  Hijo de  12
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-################################################################################
-Soy  42  Hijo de  13
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-################################################################################
-Soy  43  Hijo de  13
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-################################################################################
-Soy  44  Hijo de  14
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-################################################################################
-Soy  45  Hijo de  14
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-################################################################################
-Soy  46  Hijo de  15
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-################################################################################
-Soy  47  Hijo de  15
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-################################################################################
-Soy  48  Hijo de  30
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  49  Hijo de  30
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  50  Hijo de  28
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  51  Hijo de  28
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  52  Hijo de  28
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  53  Hijo de  28
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  54  Hijo de  26
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  55  Hijo de  26
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  56  Hijo de  26
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  57  Hijo de  26
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  58  Hijo de  24
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  59  Hijo de  24
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  60  Hijo de  24
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  61  Hijo de  24
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  62  Hijo de  24
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  63  Hijo de  24
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  64  Hijo de  24
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  65  Hijo de  24
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  66  Hijo de  22
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  67  Hijo de  22
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  68  Hijo de  22
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  69  Hijo de  22
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  70  Hijo de  31
-Voy a  C2
+Voy a  C2  estoy en  2  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  4  Hijo de  0
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  5  Hijo de  0
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  6  Hijo de  1
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  7  Hijo de  1
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  8  Hijo de  2
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  9  Hijo de  2
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  10  Hijo de  3
+Voy a  C2  estoy en  1  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  11  Hijo de  3
+Voy a  C2  estoy en  3  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  12  Hijo de  6
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  13  Hijo de  6
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  14  Hijo de  7
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  15  Hijo de  7
+Voy a  C1
   estoy en  5  voy en el bus es  True
 ################################################################################
-Soy  71  Hijo de  31
-Voy a  C2
+Soy  16  Hijo de  7
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  17  Hijo de  7
+Voy a  C1
   estoy en  9  voy en el bus es  True
 ################################################################################
-Soy  72  Hijo de  31
-Voy a  C2
+Soy  18  Hijo de  7
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  19  Hijo de  7
+Voy a  C1
   estoy en  2  voy en el bus es  True
 ################################################################################
-Soy  73  Hijo de  29
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  5  voy en el bus es  True
+Soy  20  Hijo de  5
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  74  Hijo de  29
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
+Soy  21  Hijo de  5
+Voy a  C2  estoy en  5  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  75  Hijo de  29
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
+Soy  22  Hijo de  5
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  76  Hijo de  27
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  23  Hijo de  5
+Voy a  C2  estoy en  9  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  77  Hijo de  27
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  24  Hijo de  5
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  78  Hijo de  27
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  25  Hijo de  5
+Voy a  C2  estoy en  2  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  79  Hijo de  25
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  26  Hijo de  20
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  80  Hijo de  25
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  27  Hijo de  20
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  81  Hijo de  25
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  28  Hijo de  20
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  82  Hijo de  23
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  29  Hijo de  20
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  83  Hijo de  23
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  30  Hijo de  21
+Voy a  C2  estoy en  8  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  84  Hijo de  23
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  31  Hijo de  21
+Voy a  C2  estoy en  4  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  85  Hijo de  17
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  32  Hijo de  21
+Voy a  C2  estoy en  2  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  86  Hijo de  17
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  33  Hijo de  21
+Voy a  C2  estoy en  6  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  87  Hijo de  17
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  34  Hijo de  14
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  88  Hijo de  85
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  35  Hijo de  14
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  89  Hijo de  85
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  36  Hijo de  14
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  90  Hijo de  85
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  37  Hijo de  14
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  91  Hijo de  85
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  92  Hijo de  82
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  93  Hijo de  82
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  94  Hijo de  82
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  95  Hijo de  82
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  96  Hijo de  79
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  97  Hijo de  79
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  98  Hijo de  79
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  99  Hijo de  79
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  100  Hijo de  76
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  101  Hijo de  76
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  102  Hijo de  76
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  103  Hijo de  76
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  104  Hijo de  73
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
+Soy  38  Hijo de  15
+Voy a  C1
   estoy en  8  voy en el bus es  True
 ################################################################################
-Soy  105  Hijo de  73
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
+Soy  39  Hijo de  15
+Voy a  C1
   estoy en  4  voy en el bus es  True
 ################################################################################
-Soy  106  Hijo de  73
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
+Soy  40  Hijo de  15
+Voy a  C1
   estoy en  2  voy en el bus es  True
 ################################################################################
-Soy  107  Hijo de  73
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
+Soy  41  Hijo de  15
+Voy a  C1
   estoy en  6  voy en el bus es  True
 ################################################################################
-Soy  108  Hijo de  70
-Voy a  C2
-  estoy en  8  voy en el bus es  True
+Soy  42  Hijo de  16
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  109  Hijo de  70
-Voy a  C2
-  estoy en  4  voy en el bus es  True
+Soy  43  Hijo de  16
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  110  Hijo de  70
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  111  Hijo de  70
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-################################################################################
-Soy  112  Hijo de  83
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  113  Hijo de  83
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  114  Hijo de  80
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  115  Hijo de  80
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  116  Hijo de  77
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  117  Hijo de  77
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  118  Hijo de  74
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  119  Hijo de  74
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  120  Hijo de  71
-################################################################################
-Soy  121  Hijo de  71
-################################################################################
-Soy  122  Hijo de  61
-Voy a  C2
+Soy  44  Hijo de  17
+Voy a  C1
   estoy en  1  voy en el bus es  True
 ################################################################################
-Soy  123  Hijo de  61
-Voy a  C2
+Soy  45  Hijo de  17
+Voy a  C1
   estoy en  3  voy en el bus es  True
 ################################################################################
-Soy  124  Hijo de  46
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
+Soy  46  Hijo de  10
+Voy a  C2  estoy en  9  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  125  Hijo de  46
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
+Soy  47  Hijo de  10
+Voy a  C2  estoy en  2  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  126  Hijo de  44
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
+Soy  48  Hijo de  11
+Voy a  C2  estoy en  5  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  127  Hijo de  44
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
+Soy  49  Hijo de  11
+Voy a  C2  estoy en  5  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  128  Hijo de  44
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
+Soy  50  Hijo de  11
+Voy a  C2  estoy en  9  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  129  Hijo de  44
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
+Soy  51  Hijo de  11
+Voy a  C2  estoy en  9  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  130  Hijo de  42
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
+Soy  52  Hijo de  11
+Voy a  C2  estoy en  2  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  131  Hijo de  42
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
+Soy  53  Hijo de  11
+Voy a  C2  estoy en  2  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  132  Hijo de  42
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
+Soy  54  Hijo de  13
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  133  Hijo de  42
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
+Soy  55  Hijo de  13
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  134  Hijo de  40
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  135  Hijo de  40
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  136  Hijo de  40
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  137  Hijo de  40
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  138  Hijo de  40
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  139  Hijo de  40
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  140  Hijo de  40
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  141  Hijo de  40
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  142  Hijo de  38
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  143  Hijo de  38
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  144  Hijo de  38
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  145  Hijo de  38
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  146  Hijo de  36
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  147  Hijo de  36
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  148  Hijo de  36
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  149  Hijo de  36
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  150  Hijo de  36
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  151  Hijo de  36
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  152  Hijo de  36
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  153  Hijo de  36
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  154  Hijo de  34
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  155  Hijo de  34
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  156  Hijo de  34
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  157  Hijo de  34
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  158  Hijo de  34
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  159  Hijo de  34
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  160  Hijo de  34
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  161  Hijo de  34
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  162  Hijo de  47
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-Voy a  C2
+Soy  56  Hijo de  38
+Voy a  C1
   estoy en  5  voy en el bus es  True
 ################################################################################
-Soy  163  Hijo de  47
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  164  Hijo de  47
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  165  Hijo de  45
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-################################################################################
-Soy  166  Hijo de  45
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  167  Hijo de  45
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  168  Hijo de  43
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-################################################################################
-Soy  169  Hijo de  43
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  170  Hijo de  43
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  171  Hijo de  41
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-################################################################################
-Soy  172  Hijo de  41
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-################################################################################
-Soy  173  Hijo de  41
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  174  Hijo de  39
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  175  Hijo de  39
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  176  Hijo de  39
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  177  Hijo de  37
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  178  Hijo de  37
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  179  Hijo de  37
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  180  Hijo de  35
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  181  Hijo de  35
-Voy a  C2
-  estoy en  9  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  182  Hijo de  35
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  183  Hijo de  68
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  184  Hijo de  68
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  185  Hijo de  62
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  186  Hijo de  62
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  187  Hijo de  64
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-################################################################################
-Soy  188  Hijo de  64
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-################################################################################
-Soy  189  Hijo de  65
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-################################################################################
-Soy  190  Hijo de  65
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-################################################################################
-Soy  191  Hijo de  56
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  192  Hijo de  56
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  193  Hijo de  57
-Voy a  C2
-  estoy en  1  voy en el bus es  True
-################################################################################
-Soy  194  Hijo de  57
-Voy a  C2
-  estoy en  3  voy en el bus es  True
-################################################################################
-Soy  195  Hijo de  108
-Voy a  C2
-  estoy en  5  voy en el bus es  True
-################################################################################
-Soy  196  Hijo de  108
-Voy a  C2
+Soy  57  Hijo de  38
+Voy a  C1
   estoy en  7  voy en el bus es  True
 ################################################################################
-Soy  197  Hijo de  108
-Voy a  C2
+Soy  58  Hijo de  38
+Voy a  C1
   estoy en  4  voy en el bus es  True
 ################################################################################
-Soy  198  Hijo de  104
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
+Soy  59  Hijo de  34
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  60  Hijo de  34
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  61  Hijo de  34
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  62  Hijo de  30
+Voy a  C2  estoy en  5  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  63  Hijo de  30
+Voy a  C2  estoy en  7  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  64  Hijo de  30
+Voy a  C2  estoy en  4  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  65  Hijo de  26
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  66  Hijo de  26
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  67  Hijo de  26
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  68  Hijo de  44
+Voy a  C1
+  estoy en  9  voy en el bus es  True
+################################################################################
+Soy  69  Hijo de  44
+Voy a  C1
+  estoy en  2  voy en el bus es  True
+################################################################################
+Soy  70  Hijo de  39
+Voy a  C1
   estoy en  5  voy en el bus es  True
 ################################################################################
-Soy  199  Hijo de  104
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  7  voy en el bus es  True
+Soy  71  Hijo de  39
+Voy a  C1
+  estoy en  8  voy en el bus es  True
 ################################################################################
-Soy  200  Hijo de  104
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  4  voy en el bus es  True
+Soy  72  Hijo de  39
+Voy a  C1
+  estoy en  3  voy en el bus es  True
 ################################################################################
-Soy  201  Hijo de  100
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  73  Hijo de  35
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  202  Hijo de  100
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  74  Hijo de  35
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  203  Hijo de  100
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  75  Hijo de  35
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  204  Hijo de  96
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  76  Hijo de  31
+Voy a  C2  estoy en  5  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  205  Hijo de  96
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  77  Hijo de  31
+Voy a  C2  estoy en  8  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  206  Hijo de  96
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  78  Hijo de  31
+Voy a  C2  estoy en  3  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  207  Hijo de  92
-Voy a  C2
+Soy  79  Hijo de  27
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  80  Hijo de  27
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  81  Hijo de  27
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  82  Hijo de  19
+################################################################################
+Soy  83  Hijo de  19
+################################################################################
+Soy  84  Hijo de  45
+Voy a  C1
   estoy en  5  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
 ################################################################################
-Soy  208  Hijo de  92
-Voy a  C2
+Soy  85  Hijo de  45
+Voy a  C1
+  estoy en  9  voy en el bus es  True
+################################################################################
+Soy  86  Hijo de  45
+Voy a  C1
+  estoy en  2  voy en el bus es  True
+################################################################################
+Soy  87  Hijo de  66
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  88  Hijo de  66
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  89  Hijo de  63
+Voy a  C2  estoy en  8  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  90  Hijo de  63
+Voy a  C2  estoy en  6  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  91  Hijo de  60
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  92  Hijo de  60
+Voy a  C1
+  estoy en  3  voy en el bus es  False
+################################################################################
+Soy  93  Hijo de  57
+Voy a  C1
+  estoy en  8  voy en el bus es  True
+################################################################################
+Soy  94  Hijo de  57
+Voy a  C1
+  estoy en  6  voy en el bus es  True
+################################################################################
+Soy  95  Hijo de  41
+Voy a  C1
   estoy en  7  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
 ################################################################################
-Soy  209  Hijo de  92
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  96  Hijo de  41
+Voy a  C1
+  estoy en  5  voy en el bus es  True
 ################################################################################
-Soy  210  Hijo de  88
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  97  Hijo de  37
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  211  Hijo de  88
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  98  Hijo de  37
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  212  Hijo de  88
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  99  Hijo de  33
+Voy a  C2  estoy en  7  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  213  Hijo de  180
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  100  Hijo de  33
+Voy a  C2  estoy en  5  voy en el bus es  True
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  214  Hijo de  180
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  101  Hijo de  29
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  215  Hijo de  180
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
+Soy  102  Hijo de  29
+Voy a  C2  estoy en  1  voy en el bus es  False
+Voy a  C1
+  estoy en  3  voy en el bus es  False
 ################################################################################
-Soy  216  Hijo de  180
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  217  Hijo de  177
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  218  Hijo de  177
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  219  Hijo de  177
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  220  Hijo de  177
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  221  Hijo de  174
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  222  Hijo de  174
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  223  Hijo de  174
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  224  Hijo de  174
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-################################################################################
-Soy  225  Hijo de  171
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-################################################################################
-Soy  226  Hijo de  171
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-################################################################################
-Soy  227  Hijo de  171
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  228  Hijo de  171
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-################################################################################
-Soy  229  Hijo de  168
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-################################################################################
-Soy  230  Hijo de  168
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-################################################################################
-Soy  231  Hijo de  168
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  232  Hijo de  168
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-################################################################################
-Soy  233  Hijo de  165
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-################################################################################
-Soy  234  Hijo de  165
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-################################################################################
-Soy  235  Hijo de  165
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  236  Hijo de  165
-Voy a  C2
-  estoy en  1  voy en el bus es  False
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-################################################################################
-Soy  237  Hijo de  162
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-Voy a  C2
-  estoy en  8  voy en el bus es  True
-################################################################################
-Soy  238  Hijo de  162
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-Voy a  C2
-  estoy en  4  voy en el bus es  True
-################################################################################
-Soy  239  Hijo de  162
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-Voy a  C2
-  estoy en  2  voy en el bus es  True
-################################################################################
-Soy  240  Hijo de  162
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-Voy a  C2
-  estoy en  6  voy en el bus es  True
-################################################################################
-30
-1  ,  120 -->9  ,  71 -->3  ,  31 -->9  ,  7 -->1
+43
+1  ,  82 -->2  ,  19 -->3  ,  7 -->9  ,  1 -->1
