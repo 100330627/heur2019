@@ -1,0 +1,208 @@
+array('l', [2, 9, 8])
+Soy  1  Hijo de  -1
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  2  Hijo de  -1
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  3  Hijo de  -1
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  4  Hijo de  -1
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+################################################################################
+Soy  5  Hijo de  -1
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+################################################################################
+Soy  6  Hijo de  -1
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+################################################################################
+Soy  7  Hijo de  -1
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+Voy a  C2
+  estoy en  9  voy en el bus es  True
+################################################################################
+Soy  8  Hijo de  -1
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  9  Hijo de  -1
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  10  Hijo de  -1
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  11  Hijo de  -1
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  12  Hijo de  -1
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+################################################################################
+Soy  13  Hijo de  -1
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+################################################################################
+Soy  14  Hijo de  -1
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+################################################################################
+Soy  15  Hijo de  -1
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+Voy a  C2
+  estoy en  2  voy en el bus es  True
+################################################################################
+Soy  16  Hijo de  0
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  17  Hijo de  0
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  18  Hijo de  1
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  19  Hijo de  1
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  20  Hijo de  2
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  21  Hijo de  2
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  22  Hijo de  3
+Voy a  C2
+  estoy en  1  voy en el bus es  True
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  23  Hijo de  3
+Voy a  C2
+  estoy en  3  voy en el bus es  True
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  24  Hijo de  4
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  25  Hijo de  4
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  26  Hijo de  5
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  27  Hijo de  5
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+################################################################################
+Soy  28  Hijo de  6
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  1  voy en el bus es  True
+################################################################################
+Soy  29  Hijo de  6
+Voy a  C2
+  estoy en  1  voy en el bus es  False
+Voy a  C2
+  estoy en  3  voy en el bus es  True
+################################################################################
+> c:\users\alvaro\desktop\repositorio\arbol_busqueda\state.py(52)Movimiento()
+-> for i in colegios:
+(Pdb) 

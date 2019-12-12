@@ -80,15 +80,7 @@ while isFinal(s,partida) == False:
     lista_expandidos.append(s)
     lista_generados = s.move(map,n)
     
-    print("EXPANSIOOOOOOOOON ",count)
-    for i in lista_generados:
-        print("NODO ",lista_generados.index(i),": ")
-        
-        for k in i.children:
-
-            print(i.children.index(k)," estoy en ",k.stop, " voy a ", k.escuela," y estoy en el bus es ",k.isOn)
-        print("Me ha valido ",i.coste_acum,)
-
+    
     #LA MANERA DE ORDENAR LOS HIJOS QUE NO QUIEREN QUE CONOZCAS
 
     generados_ordenada = sorted(lista_generados, key=lambda x: x.coste_acum, reverse=False)
@@ -101,7 +93,11 @@ while isFinal(s,partida) == False:
     
     s = nodos_generados.pop(0)
     
-    
+    for i in generados_ordenada:
+        print("Soy ",i.id," Hijo de ",i.father)
+        for k in i.children:
+            print("Voy a ",k.escuela," estoy en ",k.stop," voy en el bus es ",k.isOn) 
+        print("################################################################################")
     while reexpansion(lista_expandidos,s) == True:
         s = nodos_generados.pop(0)
         if len(nodos_generados) == 0:

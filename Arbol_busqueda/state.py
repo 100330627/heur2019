@@ -46,18 +46,27 @@ class State:
         #1 Miro si puedo dejar a algun ninyo aqui
         subidos = 0
         clon = copy.deepcopy(self)
+        clon.father = self.id
+        '''
+        if clon.father == 7 and clon.bus.stop == 9:
+            pdb.set_trace()
+        '''
         for i in colegios:
-            if self.bus.stop == i:
+            if clon.bus.stop == i:
+                lista_ej = clon.children.copy()
                 for k in clon.children:
+                    
                     colegio = re.search('C(.*'r'\s*)', k.escuela)
-                    indice = int(colegio.group(1))
+                    indice = int(colegio.group(1)) 
+                    flag = True
                     if colegios[indice - 1] == k.stop:
-                        subidos -= 1
-                        clon.children.remove(k)
-                    if k.stop == clon.bus.stop:
+                       
+                        flag = False
+                        lista_ej.remove(k)
+                    if k.isOn == True and flag == False:
                         subidos += 1
-            
-        
+                clon.children.clear()
+                clon.children = lista_ej
         
         
         
@@ -146,7 +155,7 @@ class State:
         for i in range(0,rango):
             count = 0
             s = copy.deepcopy(clon)
-            s.father = clon.id
+            
             while pow(2,count) <= i:
                 if int(i/int(pow(2,count)))% 2 == 1:
                     s.children[count].isOn = True        

@@ -1,5 +1,6 @@
 from state import State
 import copy
+import pdb
 #AQUI ORDENAMOS LOS NODOS EN FUNCION A SU FUNCIONDE COSTE, 
 #COMO ARGUMENTOS SE PASAN LAS LISTAS DE NODOS RECIEN GENERADOS
 # Y LOS GENERADOS DE ITERACIONES ANTERIORES
@@ -34,6 +35,7 @@ def isFinal(s,partida):
     return (len(s.children) == 0 and s.bus.stop == partida)
 
 def reexpansion(expandidos,s):
+    
     for i in expandidos:
         #compruebo que el nodo de expandidos que estamos analizando no esta en la misma parada ni tiene el mismo coste acumulado
         if i.bus.stop == s.bus.stop:
@@ -48,6 +50,7 @@ def reexpansion(expandidos,s):
                         flag = False
                         break
                 if flag == True:
+                    
                     return True
 
     
@@ -57,10 +60,12 @@ def reexpansion(expandidos,s):
 def Buscar_padre(s,lista_expandidos):
     
     id = s.father
+    print(s.coste_acum)
+    print(s.bus.stop," , ",s.id,end=' -->')
     while id != -1:
         for i in lista_expandidos:
             if i.id == id:
-                print(i.bus.stop,end=' -->')
+                print(i.bus.stop," , ",i.id,end=' -->')
                 id = i.father
                 break
 

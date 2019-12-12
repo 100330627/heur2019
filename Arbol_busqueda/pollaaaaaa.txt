@@ -1,0 +1,497 @@
+array('l', [2, 9, 8])
+9 Soy  1  hijo de  0
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+9 Soy  2  hijo de  0
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+9 Soy  3  hijo de  0
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+9 Soy  4  hijo de  0
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+9 Soy  5  hijo de  0
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+9 Soy  6  hijo de  0
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+9 Soy  7  hijo de  0
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+9 Soy  8  hijo de  0
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+2 Soy  9  hijo de  0
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+2 Soy  10  hijo de  0
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+2 Soy  11  hijo de  0
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+2 Soy  12  hijo de  0
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+2 Soy  13  hijo de  0
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+2 Soy  14  hijo de  0
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+2 Soy  15  hijo de  0
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+2 Soy  16  hijo de  0
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+1 Soy  31  hijo de  8
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+1 Soy  29  hijo de  7
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+1 Soy  27  hijo de  6
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+1 Soy  25  hijo de  5
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+1 Soy  23  hijo de  4
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+1 Soy  21  hijo de  3
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+3 Soy  30  hijo de  7
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  3  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+3 Soy  28  hijo de  6
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+3 Soy  26  hijo de  5
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+3 Soy  24  hijo de  4
+Estoy en  3  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+3 Soy  22  hijo de  3
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+5 Soy  86  hijo de  18
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+5 Soy  83  hijo de  24
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+5 Soy  80  hijo de  26
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+5 Soy  77  hijo de  28
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+5 Soy  74  hijo de  30
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+5 Soy  71  hijo de  32
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+9 Soy  87  hijo de  18
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+9 Soy  81  hijo de  26
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+9 Soy  78  hijo de  28
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+9 Soy  75  hijo de  30
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+9 Soy  72  hijo de  32
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+9 Soy  67  hijo de  23
+Estoy en  9  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+9 Soy  55  hijo de  27
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+1 Soy  45  hijo de  15
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+1 Soy  43  hijo de  14
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+1 Soy  41  hijo de  13
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+1 Soy  39  hijo de  12
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+1 Soy  37  hijo de  11
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+1 Soy  35  hijo de  10
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+1 Soy  33  hijo de  9
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+3 Soy  46  hijo de  15
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  3  voy a  C2
+  estoy en el bus es  True
+Estoy en  3  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+3 Soy  44  hijo de  14
+Estoy en  3  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  3  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+3 Soy  42  hijo de  13
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  3  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+3 Soy  40  hijo de  12
+Estoy en  3  voy a  C2
+  estoy en el bus es  True
+Estoy en  3  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+3 Soy  38  hijo de  11
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  3  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+3 Soy  36  hijo de  10
+Estoy en  3  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+3 Soy  34  hijo de  9
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+2 Soy  70  hijo de  23
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+2 Soy  64  hijo de  25
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+2 Soy  66  hijo de  25
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+2 Soy  57  hijo de  27
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+2 Soy  58  hijo de  27
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+2 Soy  53  hijo de  29
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  2  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+8 Soy  105  hijo de  74
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  8  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+8 Soy  101  hijo de  77
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+8 Soy  97  hijo de  80
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+8 Soy  93  hijo de  83
+Estoy en  8  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+8 Soy  89  hijo de  86
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+5 Soy  181  hijo de  36
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+5 Soy  178  hijo de  38
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+5 Soy  175  hijo de  40
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+############################################################################################
+5 Soy  172  hijo de  42
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+5 Soy  169  hijo de  44
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+5 Soy  166  hijo de  46
+Estoy en  1  voy a  C2
+  estoy en el bus es  False
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+5 Soy  163  hijo de  48
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+Estoy en  5  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+1 Soy  123  hijo de  62
+Estoy en  1  voy a  C2
+  estoy en el bus es  True
+############################################################################################
+30
+1  ,  121 -->9  ,  72 -->3  ,  32 -->9  ,  8 -->1  ,  0 -->1

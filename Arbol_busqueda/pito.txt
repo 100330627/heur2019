@@ -1,0 +1,1451 @@
+array('l', [2, 9, 8])
+1 ################################################################
+Soy  1  hijo de  0
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  2  hijo de  0
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  3  hijo de  0
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  4  hijo de  0
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  5  hijo de  0
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  6  hijo de  0
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  7  hijo de  0
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  8  hijo de  0
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  9  hijo de  0
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  10  hijo de  0
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  11  hijo de  0
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  12  hijo de  0
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  13  hijo de  0
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  14  hijo de  0
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  15  hijo de  0
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  16  hijo de  0
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+2 ################################################################
+Soy  17  hijo de  1
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  18  hijo de  1
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+3 ################################################################
+Soy  19  hijo de  2
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  20  hijo de  2
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+4 ################################################################
+Soy  21  hijo de  3
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  22  hijo de  3
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+5 ################################################################
+Soy  23  hijo de  4
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  24  hijo de  4
+Estoy en  3  voy a  C2
+
+Estoy en  1  voy a  C2
+
+6 ################################################################
+Soy  25  hijo de  5
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  26  hijo de  5
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+7 ################################################################
+Soy  27  hijo de  6
+Estoy en  1  voy a  C2
+
+Soy  28  hijo de  6
+Estoy en  1  voy a  C2
+
+8 ################################################################
+Soy  29  hijo de  7
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  30  hijo de  7
+Estoy en  1  voy a  C2
+
+Estoy en  3  voy a  C2
+
+9 ################################################################
+Soy  31  hijo de  8
+Estoy en  1  voy a  C2
+
+Soy  32  hijo de  8
+Estoy en  3  voy a  C2
+
+10 ################################################################
+Soy  33  hijo de  9
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  34  hijo de  9
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+11 ################################################################
+Soy  35  hijo de  10
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  36  hijo de  10
+Estoy en  3  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+12 ################################################################
+Soy  37  hijo de  11
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  38  hijo de  11
+Estoy en  1  voy a  C2
+
+Estoy en  3  voy a  C2
+
+Estoy en  1  voy a  C2
+
+13 ################################################################
+Soy  39  hijo de  12
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  40  hijo de  12
+Estoy en  3  voy a  C2
+
+Estoy en  3  voy a  C2
+
+Estoy en  1  voy a  C2
+
+14 ################################################################
+Soy  41  hijo de  13
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  42  hijo de  13
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  3  voy a  C2
+
+15 ################################################################
+Soy  43  hijo de  14
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  44  hijo de  14
+Estoy en  3  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  3  voy a  C2
+
+16 ################################################################
+Soy  45  hijo de  15
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  46  hijo de  15
+Estoy en  1  voy a  C2
+
+Estoy en  3  voy a  C2
+
+Estoy en  3  voy a  C2
+
+17 ################################################################
+Soy  47  hijo de  16
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  48  hijo de  16
+Estoy en  3  voy a  C2
+
+Estoy en  3  voy a  C2
+
+Estoy en  3  voy a  C2
+
+18 ################################################################
+Soy  49  hijo de  31
+Estoy en  9  voy a  C2
+
+Soy  50  hijo de  31
+Estoy en  2  voy a  C2
+
+19 ################################################################
+Soy  51  hijo de  29
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  52  hijo de  29
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  53  hijo de  29
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  54  hijo de  29
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+20 ################################################################
+Soy  55  hijo de  27
+Estoy en  1  voy a  C2
+
+Soy  56  hijo de  27
+Estoy en  9  voy a  C2
+
+Soy  57  hijo de  27
+Estoy en  1  voy a  C2
+
+Soy  58  hijo de  27
+Estoy en  2  voy a  C2
+
+21 ################################################################
+Soy  59  hijo de  25
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  60  hijo de  25
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  61  hijo de  25
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  62  hijo de  25
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  63  hijo de  25
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  64  hijo de  25
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  65  hijo de  25
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  66  hijo de  25
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+22 ################################################################
+Soy  67  hijo de  23
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  68  hijo de  23
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  69  hijo de  23
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  70  hijo de  23
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+23 ################################################################
+Soy  71  hijo de  32
+Estoy en  5  voy a  C2
+
+Soy  72  hijo de  32
+Estoy en  9  voy a  C2
+
+Soy  73  hijo de  32
+Estoy en  2  voy a  C2
+
+24 ################################################################
+Soy  74  hijo de  30
+Estoy en  1  voy a  C2
+
+Estoy en  5  voy a  C2
+
+Soy  75  hijo de  30
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  76  hijo de  30
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+25 ################################################################
+Soy  77  hijo de  28
+Estoy en  1  voy a  C2
+
+Soy  78  hijo de  28
+Estoy en  1  voy a  C2
+
+Soy  79  hijo de  28
+Estoy en  1  voy a  C2
+
+26 ################################################################
+Soy  80  hijo de  26
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  81  hijo de  26
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  82  hijo de  26
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+27 ################################################################
+Soy  83  hijo de  24
+Estoy en  5  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  84  hijo de  24
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  85  hijo de  24
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+28 ################################################################
+Soy  86  hijo de  18
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  87  hijo de  18
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  88  hijo de  18
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+29 ################################################################
+Soy  89  hijo de  86
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  90  hijo de  86
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  91  hijo de  86
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  92  hijo de  86
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+30 ################################################################
+Soy  93  hijo de  83
+Estoy en  8  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  94  hijo de  83
+Estoy en  4  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  95  hijo de  83
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  96  hijo de  83
+Estoy en  6  voy a  C2
+
+Estoy en  1  voy a  C2
+
+31 ################################################################
+Soy  97  hijo de  80
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  98  hijo de  80
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  99  hijo de  80
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  100  hijo de  80
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+32 ################################################################
+Soy  101  hijo de  77
+Estoy en  1  voy a  C2
+
+Soy  102  hijo de  77
+Estoy en  1  voy a  C2
+
+Soy  103  hijo de  77
+Estoy en  1  voy a  C2
+
+Soy  104  hijo de  77
+Estoy en  1  voy a  C2
+
+33 ################################################################
+Soy  105  hijo de  74
+Estoy en  1  voy a  C2
+
+Estoy en  8  voy a  C2
+
+Soy  106  hijo de  74
+Estoy en  1  voy a  C2
+
+Estoy en  4  voy a  C2
+
+Soy  107  hijo de  74
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  108  hijo de  74
+Estoy en  1  voy a  C2
+
+Estoy en  6  voy a  C2
+
+34 ################################################################
+Soy  109  hijo de  71
+Estoy en  8  voy a  C2
+
+Soy  110  hijo de  71
+Estoy en  4  voy a  C2
+
+Soy  111  hijo de  71
+Estoy en  2  voy a  C2
+
+Soy  112  hijo de  71
+Estoy en  6  voy a  C2
+
+35 ################################################################
+Soy  113  hijo de  84
+Estoy en  1  voy a  C2
+
+Soy  114  hijo de  84
+Estoy en  1  voy a  C2
+
+36 ################################################################
+Soy  115  hijo de  81
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  116  hijo de  81
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+37 ################################################################
+Soy  117  hijo de  78
+Estoy en  1  voy a  C2
+
+Soy  118  hijo de  78
+Estoy en  1  voy a  C2
+
+38 ################################################################
+Soy  119  hijo de  75
+Estoy en  1  voy a  C2
+
+Soy  120  hijo de  75
+Estoy en  1  voy a  C2
+
+39 ################################################################
+Soy  121  hijo de  72
+Soy  122  hijo de  72
+40 ################################################################
+Soy  123  hijo de  62
+Estoy en  1  voy a  C2
+
+Soy  124  hijo de  62
+Estoy en  3  voy a  C2
+
+41 ################################################################
+Soy  125  hijo de  47
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  126  hijo de  47
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+42 ################################################################
+Soy  127  hijo de  45
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  128  hijo de  45
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  129  hijo de  45
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  130  hijo de  45
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+43 ################################################################
+Soy  131  hijo de  43
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  132  hijo de  43
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  133  hijo de  43
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  134  hijo de  43
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+44 ################################################################
+Soy  135  hijo de  41
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  136  hijo de  41
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  137  hijo de  41
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  138  hijo de  41
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  139  hijo de  41
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  140  hijo de  41
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  141  hijo de  41
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  142  hijo de  41
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+45 ################################################################
+Soy  143  hijo de  39
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  144  hijo de  39
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  145  hijo de  39
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  146  hijo de  39
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+46 ################################################################
+Soy  147  hijo de  37
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  148  hijo de  37
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  149  hijo de  37
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  150  hijo de  37
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  151  hijo de  37
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  152  hijo de  37
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  153  hijo de  37
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  154  hijo de  37
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+47 ################################################################
+Soy  155  hijo de  35
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  156  hijo de  35
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  157  hijo de  35
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  158  hijo de  35
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  159  hijo de  35
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  160  hijo de  35
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  161  hijo de  35
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  162  hijo de  35
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+48 ################################################################
+Soy  163  hijo de  48
+Estoy en  5  voy a  C2
+
+Estoy en  5  voy a  C2
+
+Estoy en  5  voy a  C2
+
+Soy  164  hijo de  48
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  165  hijo de  48
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+49 ################################################################
+Soy  166  hijo de  46
+Estoy en  1  voy a  C2
+
+Estoy en  5  voy a  C2
+
+Estoy en  5  voy a  C2
+
+Soy  167  hijo de  46
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  168  hijo de  46
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+50 ################################################################
+Soy  169  hijo de  44
+Estoy en  5  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  5  voy a  C2
+
+Soy  170  hijo de  44
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  171  hijo de  44
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+51 ################################################################
+Soy  172  hijo de  42
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  5  voy a  C2
+
+Soy  173  hijo de  42
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Soy  174  hijo de  42
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+52 ################################################################
+Soy  175  hijo de  40
+Estoy en  5  voy a  C2
+
+Estoy en  5  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  176  hijo de  40
+Estoy en  9  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  177  hijo de  40
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+53 ################################################################
+Soy  178  hijo de  38
+Estoy en  1  voy a  C2
+
+Estoy en  5  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  179  hijo de  38
+Estoy en  1  voy a  C2
+
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  180  hijo de  38
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+54 ################################################################
+Soy  181  hijo de  36
+Estoy en  5  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  182  hijo de  36
+Estoy en  9  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  183  hijo de  36
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+55 ################################################################
+Soy  184  hijo de  69
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  185  hijo de  69
+Estoy en  3  voy a  C2
+
+Estoy en  1  voy a  C2
+
+56 ################################################################
+Soy  186  hijo de  63
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  187  hijo de  63
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+57 ################################################################
+Soy  188  hijo de  65
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  189  hijo de  65
+Estoy en  1  voy a  C2
+
+Estoy en  3  voy a  C2
+
+58 ################################################################
+Soy  190  hijo de  66
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  191  hijo de  66
+Estoy en  3  voy a  C2
+
+Estoy en  3  voy a  C2
+
+59 ################################################################
+Soy  192  hijo de  57
+Estoy en  1  voy a  C2
+
+Soy  193  hijo de  57
+Estoy en  1  voy a  C2
+
+60 ################################################################
+Soy  194  hijo de  58
+Estoy en  1  voy a  C2
+
+Soy  195  hijo de  58
+Estoy en  3  voy a  C2
+
+61 ################################################################
+Soy  196  hijo de  109
+Estoy en  5  voy a  C2
+
+Soy  197  hijo de  109
+Estoy en  7  voy a  C2
+
+Soy  198  hijo de  109
+Estoy en  4  voy a  C2
+
+62 ################################################################
+Soy  199  hijo de  105
+Estoy en  1  voy a  C2
+
+Estoy en  5  voy a  C2
+
+Soy  200  hijo de  105
+Estoy en  1  voy a  C2
+
+Estoy en  7  voy a  C2
+
+Soy  201  hijo de  105
+Estoy en  1  voy a  C2
+
+Estoy en  4  voy a  C2
+
+63 ################################################################
+Soy  202  hijo de  101
+Estoy en  1  voy a  C2
+
+Soy  203  hijo de  101
+Estoy en  1  voy a  C2
+
+Soy  204  hijo de  101
+Estoy en  1  voy a  C2
+
+64 ################################################################
+Soy  205  hijo de  97
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  206  hijo de  97
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  207  hijo de  97
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+65 ################################################################
+Soy  208  hijo de  93
+Estoy en  5  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  209  hijo de  93
+Estoy en  7  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  210  hijo de  93
+Estoy en  4  voy a  C2
+
+Estoy en  1  voy a  C2
+
+66 ################################################################
+Soy  211  hijo de  89
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  212  hijo de  89
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  213  hijo de  89
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+67 ################################################################
+Soy  214  hijo de  181
+Estoy en  8  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  215  hijo de  181
+Estoy en  4  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  216  hijo de  181
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  217  hijo de  181
+Estoy en  6  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+68 ################################################################
+Soy  218  hijo de  178
+Estoy en  1  voy a  C2
+
+Estoy en  8  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  219  hijo de  178
+Estoy en  1  voy a  C2
+
+Estoy en  4  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  220  hijo de  178
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  221  hijo de  178
+Estoy en  1  voy a  C2
+
+Estoy en  6  voy a  C2
+
+Estoy en  1  voy a  C2
+
+69 ################################################################
+Soy  222  hijo de  175
+Estoy en  8  voy a  C2
+
+Estoy en  8  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  223  hijo de  175
+Estoy en  4  voy a  C2
+
+Estoy en  4  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  224  hijo de  175
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Soy  225  hijo de  175
+Estoy en  6  voy a  C2
+
+Estoy en  6  voy a  C2
+
+Estoy en  1  voy a  C2
+
+70 ################################################################
+Soy  226  hijo de  172
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  8  voy a  C2
+
+Soy  227  hijo de  172
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  4  voy a  C2
+
+Soy  228  hijo de  172
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  229  hijo de  172
+Estoy en  1  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  6  voy a  C2
+
+71 ################################################################
+Soy  230  hijo de  169
+Estoy en  8  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  8  voy a  C2
+
+Soy  231  hijo de  169
+Estoy en  4  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  4  voy a  C2
+
+Soy  232  hijo de  169
+Estoy en  2  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  233  hijo de  169
+Estoy en  6  voy a  C2
+
+Estoy en  1  voy a  C2
+
+Estoy en  6  voy a  C2
+
+72 ################################################################
+Soy  234  hijo de  166
+Estoy en  1  voy a  C2
+
+Estoy en  8  voy a  C2
+
+Estoy en  8  voy a  C2
+
+Soy  235  hijo de  166
+Estoy en  1  voy a  C2
+
+Estoy en  4  voy a  C2
+
+Estoy en  4  voy a  C2
+
+Soy  236  hijo de  166
+Estoy en  1  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  237  hijo de  166
+Estoy en  1  voy a  C2
+
+Estoy en  6  voy a  C2
+
+Estoy en  6  voy a  C2
+
+73 ################################################################
+Soy  238  hijo de  163
+Estoy en  8  voy a  C2
+
+Estoy en  8  voy a  C2
+
+Estoy en  8  voy a  C2
+
+Soy  239  hijo de  163
+Estoy en  4  voy a  C2
+
+Estoy en  4  voy a  C2
+
+Estoy en  4  voy a  C2
+
+Soy  240  hijo de  163
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Estoy en  2  voy a  C2
+
+Soy  241  hijo de  163
+Estoy en  6  voy a  C2
+
+Estoy en  6  voy a  C2
+
+Estoy en  6  voy a  C2
+
+30
+1  ,  121 -->9  ,  72 -->3  ,  32 -->9  ,  8 -->1  ,  0 -->1
