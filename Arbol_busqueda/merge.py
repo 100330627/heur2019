@@ -50,22 +50,26 @@ def reexpansion(expandidos,s):
                         flag = False
                         break
                 if flag == True:
-                    
+                   
                     return True
 
     
     return False
 
+
 #ESTA FUNCION ENCUENTRA AL PADRE
 def Buscar_padre(s,lista_expandidos):
+    cola = []
     
     id = s.father
     print(s.coste_acum)
-    print(s.bus.stop," , ",s.id,end=' -->')
+    #print(s.bus.stop,end=' -->')
+    print("A",s.bus.stop,end=' -->')
     while id != -1:
         for i in lista_expandidos:
             if i.id == id:
-                print(i.bus.stop," , ",i.id,end=' -->')
+
+                print(i.bus.stop,end=' -->')
                 id = i.father
                 break
 

@@ -77,10 +77,13 @@ count = 0
 
 
 while isFinal(s,partida) == False:
+   
     lista_expandidos.append(s)
     lista_generados = s.move(map,n)
-    
-    
+    '''
+    if s.id == 1 or s.id == 0 or s.id == 5 or s.id == 14 or s.id == 30 or s.id == 45 or s.id == 63 or s.id == 100 or s.id == 134 or s.id == 191:
+        pdb.set_trace()
+    '''
     #LA MANERA DE ORDENAR LOS HIJOS QUE NO QUIEREN QUE CONOZCAS
 
     generados_ordenada = sorted(lista_generados, key=lambda x: x.coste_acum, reverse=False)
@@ -90,18 +93,30 @@ while isFinal(s,partida) == False:
     nodos_generados = merge(generados_ordenada,nodos_generados)
     
     count += 1 
-    
-    s = nodos_generados.pop(0)
+    try:
+        s = nodos_generados.pop(0)
+    except IndexError:
+        print("NO SOLUCION")
+        sys.exit(0)
     
     for i in generados_ordenada:
         print("Soy ",i.id," Hijo de ",i.father)
         for k in i.children:
             print("Voy a ",k.escuela," estoy en ",k.stop," voy en el bus es ",k.isOn) 
         print("################################################################################")
-    while reexpansion(lista_expandidos,s) == True:
-        s = nodos_generados.pop(0)
-        if len(nodos_generados) == 0:
-            print("NO SOLUCION")
-            sys.exit(-1)
     
+    
+
+
+
+    while reexpansion(lista_expandidos,s) == True and len(nodos_generados) > 0:
+        try:
+            s = nodos_generados.pop(0)
+        except IndexError:
+            print("NO SOLUCION")
+            sys.exit(0)
+
+    
+    
+
 Buscar_padre(s,lista_expandidos)

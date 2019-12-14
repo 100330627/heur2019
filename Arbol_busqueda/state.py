@@ -1,7 +1,6 @@
 from Bus import Bus
 from Children import Children
 from itertools import combinations
-
 import re
 import copy
 import sys
@@ -44,7 +43,7 @@ class State:
         lista_hijos = []
         #MIRO LA PARADA DONDE ESTOY A VER SI PUEDO SUBIR/DEJAR ALGUN NINYO
         #1 Miro si puedo dejar a algun ninyo aqui
-        subidos = 0
+        
         clon = copy.deepcopy(self)
         clon.father = self.id
         '''
@@ -53,28 +52,30 @@ class State:
         '''
         for i in colegios:
             if clon.bus.stop == i:
-                lista_ej = clon.children.copy()
+                lista_ej = []
                 for k in clon.children:
                     
                     colegio = re.search('C(.*'r'\s*)', k.escuela)
                     indice = int(colegio.group(1)) 
                     flag = True
                     if colegios[indice - 1] == k.stop:
-                       
+                        
                         flag = False
-                        lista_ej.remove(k)
-                    if k.isOn == True and flag == True:
-                        subidos += 1
+                        
+                    
+                    if flag == True:
+                        lista_ej.append(k)
                 clon.children.clear()
                 clon.children = lista_ej
-        
-        
+        subidos = 0 
+        for i in (k for k in clon.children if k.isOn == True):
+            subidos += 1
         
         
         #2 Miro si en la parada hay chavales que puedan subir
-        if subidos < self.bus.capacity:
+        if subidos < clon.bus.capacity:
             #DETERMINO CUANTOS PUEDEN SUBIR
-            places = self.bus.capacity - subidos
+            places = clon.bus.capacity - subidos
 
             #MIRO CUANTOS HAY EN LA PARADA,ES DIFERENTE DE SI TODOS CABEN O NO CABEN
             
@@ -107,7 +108,9 @@ class State:
              s.bus.stop = destino
              s.children = self.kids_pos(s.children,destino)
              lista_hijos.append(s)
-
+        for k in lista_hijos:
+            if self.reexpansion_padre(k) == True:
+                lista_hijos.remove(k)
         return lista_hijos
             
             
@@ -115,7 +118,7 @@ class State:
         
         count = 0
         for i in clone.children:
-            if i.stop == self.bus.stop and i.isOn == False:
+            if i.stop == clone.bus.stop and i.isOn == False:
                 count += 1
 
         #TODOS LOS NINYOS DE LA PARADA PUEDEN SUBIR PREPARAMOS EL ESTADO
@@ -124,7 +127,7 @@ class State:
     def getChildrenQueue(self,clone):
         cola = []
         for i in clone.children:
-            if i.stop == self.bus.stop and i.isOn == False:
+            if i.stop == clone.bus.stop and i.isOn == False:
                 cola.append(i)
         return cola
 
@@ -140,6 +143,7 @@ class State:
        
         if todos_caben == True:
             lista = self.comb_cola(clone,cola_ninyos)
+           
             return lista
         else:
             lista_comb = []
@@ -155,11 +159,28 @@ class State:
         for i in range(0,rango):
             count = 0
             s = copy.deepcopy(clon)
-            
+            for k in s.children:
+                if k.stop == s.bus.stop and k.isOn == False:
+                    s.children.remove(k)
             while pow(2,count) <= i:
                 if int(i/int(pow(2,count)))% 2 == 1:
-                    s.children[count].isOn = True        
+                    cola_ninyos[count].isOn = True        
                 count += 1
-
+            s.children = s.children + cola_ninyos
             lista_estados.append(s)
         return lista_estados
+
+    def reexpansion_padre(self,i):
+        if i.bus.stop == self.bus.stop:
+                #Compruebo que no haya el mismo numero de ninyos
+                if len(i.children) == len(self.children):
+                    #Si se cumple todo eso que no esten todos en la misma posicion,ordeno las dos listas por parada y comparo uno a uno
+                    sorted(i.children, key=lambda x: x.stop, reverse=False)
+                    sorted(self.children, key=lambda x: x.stop, reverse=False)
+                    flag = True
+                    for j in range(0,len(s.children)):
+                        if i.children[j].stop != self.children[j].stop or i.children[j].escuela != self.children[j].escuela or i.children[j].isOn != self.children[j].isOn:
+                            flag = False
+                            break
+                    if flag == True:
+                        return True
