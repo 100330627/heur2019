@@ -178,7 +178,7 @@ class State:
                     sorted(i.children, key=lambda x: x.stop, reverse=False)
                     sorted(self.children, key=lambda x: x.stop, reverse=False)
                     flag = True
-                    for j in range(0,len(s.children)):
+                    for j in range(0,len(self.children)):
                         if i.children[j].stop != self.children[j].stop or i.children[j].escuela != self.children[j].escuela or i.children[j].isOn != self.children[j].isOn:
                             flag = False
                             break
